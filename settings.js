@@ -13,9 +13,9 @@
 
   // Edit Sesuai Kemauanmu
   global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-  global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+  global.autoReadAll = true // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
-  global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
+  global.available = true // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
@@ -23,12 +23,12 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownername = 'owneralexa' // Ganti Jadi Namamu
+  global.owner = ['6283128687029','6283128687029','6283128687029'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6283128687029' // Owner Utama Istilahnya
+  global.botname = 'alexa-botz' // Ganti Jadi Nama Botmu
+  global.packname = 'alexa-botz' // Sticker Weem
+  global.author = 'owneralexa' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
@@ -56,11 +56,11 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
-  botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
-  group: '_Khusus Group 😏_',
-  private: '_Khusus Private Chat_',
+  admin: '_Lu Admin?(・_・;)_',
+  botAdmin: '_gue bukan admin :(_',
+  owner: '_Lu Bukan Owner Gw bodoh_',
+  group: '_Khusus Group nya 😇_',
+  private: '_Khusus Private Chat😶_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Sabar Sedang Di Proses ..._',
   done: '_Done Ngab 🤗_',
