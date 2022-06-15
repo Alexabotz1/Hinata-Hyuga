@@ -23,10 +23,10 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
+  global.ownername = 'owneralexa' // Ganti Jadi Namamu
+  global.owner = ['6283128687029','6283128687029','6283128687029'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6283128687029' // Owner Utama Istilahnya
+  global.botname = 'alexa-botz' // Ganti Jadi Nama Botmu
   global.packname = 'Hinata Hyuga' // Sticker Weem
   global.author = 'Riy' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
